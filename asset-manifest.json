@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DIO-escrevendo-as-classes-de-um-jogo/static/css/main.e284d3c8.css",
+    "main.js": "/DIO-escrevendo-as-classes-de-um-jogo/static/js/main.b5cb7797.js",
+    "static/js/787.8c7f24ac.chunk.js": "/DIO-escrevendo-as-classes-de-um-jogo/static/js/787.8c7f24ac.chunk.js",
+    "static/media/wizard-image.png": "/DIO-escrevendo-as-classes-de-um-jogo/static/media/wizard-image.cf7a8d773513839a10d1.png",
+    "static/media/warrior-image.png": "/DIO-escrevendo-as-classes-de-um-jogo/static/media/warrior-image.87a6f28500f7e3eae11a.png",
+    "index.html": "/DIO-escrevendo-as-classes-de-um-jogo/index.html",
+    "main.e284d3c8.css.map": "/DIO-escrevendo-as-classes-de-um-jogo/static/css/main.e284d3c8.css.map",
+    "main.b5cb7797.js.map": "/DIO-escrevendo-as-classes-de-um-jogo/static/js/main.b5cb7797.js.map",
+    "787.8c7f24ac.chunk.js.map": "/DIO-escrevendo-as-classes-de-um-jogo/static/js/787.8c7f24ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e284d3c8.css",
+    "static/js/main.b5cb7797.js"
+  ]
+}
